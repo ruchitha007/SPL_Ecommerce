@@ -1,7 +1,7 @@
 # EcommerceStore
 This project is an online store. The languages used are Typescript, Angular , Node js , Stripe
 
-##instructions to run**
+## instructions to run
 Install Node
 Install angular using command: npm install -g @angular/cli@latest
 
